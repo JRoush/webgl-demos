@@ -1,10 +1,7 @@
 ---
- name: Hello Pixel
- description: The simplest possible WebGL program.
- authors: [JRoush]
- normalize_css: no
- javascript_loadtype: onLoad
- js_loadtype: onLoad
- loadtype_js: onLoad
- loadtype_javascript: onLoad
- ...
+name: Hello Pixel
+description: The simplest possible WebGL program.
+authors: [JRoush]
+normalize_css: no
+wrap: l
+...
