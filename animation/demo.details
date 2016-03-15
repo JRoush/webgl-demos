@@ -1,0 +1,7 @@
+---
+name: Animation
+description: Updating the scene in real time
+authors: [JRoush]
+normalize_css: no
+wrap: h
+...
